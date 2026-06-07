@@ -3,7 +3,7 @@
 Multi-label text classification system for 27 SDG 3 health indicators, built for the Machine Learning Techniques I assignment at African Leadership University.
 
 **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/1-aWxfTLisQ6VlAcaox8NKTLLPZTkiXnc/view?usp=sharing)
-**Report Link:** [Report](https://docs.google.com/document/d/1EPuRgUEhn0FsiVelNH8gKrXrzaZ_EM9dRjz7ZWBDR_Y/edit?usp=sharing)
+**Report Link:** [Report](https://docs.google.com/document/d/1Sj_41-zrugwPv_A-4aDn5ny2ooQ3u1iDBubBlx3F6_w/edit?usp=sharing)
 
 ## Problem Statement
 
